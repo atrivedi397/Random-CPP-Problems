@@ -33,3 +33,6 @@ add_executable(SieveOfEratosthenes.cpp SieveOfEratosthenes.cpp)
 
 add_executable(GraphDefinition GraphDefinition.cpp)
 add_executable(SeparateProcess SeparateProcess.c)
+
+set(E-Closure E-Closure.c)
+add_executable(E-Closure E-Closure.c)
